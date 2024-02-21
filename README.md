@@ -18,12 +18,17 @@ Responsive Design: The app's GUI design is responsive, ensuring optimal display 
 Technologies Used:
 
 1.Python
+
 2.Tkinter
+
 3.BeautifulSoup
+
 4.Requests
+
 5.Threading
 
 Outcome:
+
 The Weather Forecast App offers a seamless solution for accessing real-time weather updates, empowering users to stay informed about current weather conditions in any city globally. Its robust functionality, coupled with an intuitive interface, makes it a valuable tool for individuals seeking reliable weather forecasts.
 
 Future Enhancements:
@@ -33,4 +38,5 @@ Future Enhancements:
 3.Enhancement of GUI elements for a more visually appealing user experience.
 
 Acknowledgements:
+
 This project was developed as part of personal portfolio enhancement and learning experience. Special thanks to the open-source community for their invaluable contributions to the libraries and tools used in this project.
